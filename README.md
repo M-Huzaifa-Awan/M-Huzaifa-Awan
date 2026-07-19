@@ -57,18 +57,17 @@ $ status
 
 [**Connecting Claude to Your Outlook Inbox and Calendar with MCP**](https://huzaifaawan.com/blog/connect-claude-to-outlook-calendar-mcp) · [**How I Hit a 95% Redis Cache Hit Rate**](https://huzaifaawan.com/blog/95-percent-redis-cache-hit-rate) · [**Building an MCP Server for Claude**](https://huzaifaawan.com/blog/building-an-mcp-server-for-claude)
 
-## 📊 Telemetry
+## 🌆 Contribution City
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Huzaifa-Awan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff8a4c&text_color=c9d1d9&ring_color=ff6b35" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Huzaifa-Awan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9" height="160" alt="languages" />
+<img src="https://raw.githubusercontent.com/M-Huzaifa-Awan/M-Huzaifa-Awan/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+
+## 📊 Telemetry
 
 <img src="https://streak-stats.demolab.com?user=M-Huzaifa-Awan&hide_border=true&background=0D1117&ring=FF6B35&fire=FF8A4C&currStreakLabel=FF8A4C&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Huzaifa-Awan&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" width="94%" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-Huzaifa-Awan&theme=darkhub&no-frame=true&column=7&margin-w=8" width="94%" alt="trophies" />
-
-## 🐍
+## 🐍 The Hunt
 
 <img src="https://raw.githubusercontent.com/M-Huzaifa-Awan/M-Huzaifa-Awan/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
 
