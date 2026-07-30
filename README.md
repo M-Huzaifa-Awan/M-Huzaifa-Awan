@@ -19,10 +19,14 @@
 $ whoami
 > muhammad-huzaifa-awan :: senior full stack developer :: US & UK hours, remote
 
-$ uptime
-> 3+ years shipping production SaaS, AI products, and payment infrastructure
+$ stats --summary
+> 6+     years experience
+> 50+    enterprise production systems delivered
+> 20+    technologies used
+> 100%   job success
 
 $ ls ./currently_shipping
+...
 > atlas/        # Outlook mail + calendar inside Claude (MCP SaaS)   → live
 > studio-os/    # solo-engineered MCP server, 60+ tools              → production
 > leo-saas/     # multi-tenant salon platform, WebSocket builder     → 95% cache hit · <50ms APIs
