@@ -28,7 +28,6 @@ $ stats --summary
 $ ls ./currently_shipping
 ...
 > atlas/        # Outlook mail + calendar inside Claude (MCP SaaS)   → live
-> studio-os/    # solo-engineered MCP server, 60+ tools              → production
 > leo-saas/     # multi-tenant salon platform, WebSocket builder     → 95% cache hit · <50ms APIs
 
 $ cat note.txt
