@@ -50,7 +50,7 @@ $ status
 | Project | Payload | Status |
 | --- | --- | --- |
 | **[Atlas](https://atlas-web-rho-hazel.vercel.app/)** | My SaaS: Microsoft Outlook email + calendar inside Claude via MCP. Read, draft, send, and schedule in plain English across multiple accounts. | 🟢 Live |
-| **Studio OS** | Solo-engineered MCP server: 60+ tools across ClickUp, Outlook, Apple Health, Oura. OAuth 2.0, Fly.io, Neon Postgres. [Build log →](https://huzaifaawan.com/blog/building-an-mcp-server-for-claude) | 🟢 Production |
+Production |
 | **LEO Salon SaaS** | Real-time multi-tenant website builder over WebSockets. 95% Redis cache hit rate, sub-50ms APIs at 100+ concurrent users. | 🟢 Production |
 | **Apex Intelligence** | AI analytics platform orchestrating Claude + OpenAI with structured outputs. | 🟢 Live |
 
