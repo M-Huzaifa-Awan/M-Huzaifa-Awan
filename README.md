@@ -49,7 +49,6 @@ $ status
 
 | Project | Payload | Status |
 | --- | --- | --- |
-| **[Atlas](https://atlas-web-rho-hazel.vercel.app/)** | My SaaS: Microsoft Outlook email + calendar inside Claude via MCP. Read, draft, send, and schedule in plain English across multiple accounts. | 🟢 Live |
 Production |
 | **LEO Salon SaaS** | Real-time multi-tenant website builder over WebSockets. 95% Redis cache hit rate, sub-50ms APIs at 100+ concurrent users. | 🟢 Production |
 | **Apex Intelligence** | AI analytics platform orchestrating Claude + OpenAI with structured outputs. | 🟢 Live |
@@ -58,7 +57,7 @@ Production |
 
 ## 📡 Transmissions
 
-[**Connecting Claude to Your Outlook Inbox and Calendar with MCP**](https://huzaifaawan.com/blog/connect-claude-to-outlook-calendar-mcp) · [**How I Hit a 95% Redis Cache Hit Rate**](https://huzaifaawan.com/blog/95-percent-redis-cache-hit-rate) · [**Building an MCP Server for Claude**](https://huzaifaawan.com/blog/building-an-mcp-server-for-claude)
+[**Connecting Claude to Your Outlook Inbox and Calendar with MCP**](https://huzaifaawan.com/blog/connect-claude-to-outlook-calendar-mcp) · [**How I Hit a 95% Redis Cache Hit Rate**](https://huzaifaawan.com/blog/95-percent-redis-cache-hit-rate) ·
 
 ## 🌆 Contribution City
 
